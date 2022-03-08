@@ -1,0 +1,30 @@
+.nav-aside{
+    padding: .65rem;
+    background-color: #202C33;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-user{
+    color: white;
+    background-color: #314754;
+    padding: .5rem;
+    border-radius: 50%;
+    box-sizing: border-box;
+    width: 2.5rem;
+    height: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-user > h4{
+    /* box-sizing: border-box; */
+    font-weight: 300;
+    font-size: 1.4rem;
+}
+
+.nav-options > i{
+    font-size: 27px;
+    color: #AEBAC1;
+    margin-right: .9rem;
+}
