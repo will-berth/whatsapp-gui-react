@@ -4,6 +4,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    border-right: .5px #3c3c3c solid;
 }
 .nav-user{
     color: white;

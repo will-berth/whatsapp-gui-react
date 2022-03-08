@@ -1,6 +1,7 @@
 import React from 'react';
 import './aside.css';
 import { NavAside } from './NavAside';
+import { SearchChat } from './SearchChat';
 
 export const Aside = () => {
 
@@ -8,6 +9,9 @@ export const Aside = () => {
         <>
             <aside className="aside-component">
                 <NavAside />
+                <div className="content-search">
+                    <SearchChat />
+                </div>
             </aside>
         </>
     );

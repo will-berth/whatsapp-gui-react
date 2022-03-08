@@ -3,3 +3,9 @@
     width: 30%;
     background-color: #111B21;
 }
+
+.content-search{
+    padding: .4rem .8rem;
+    border-bottom: .5px #3c3c3c solid;
+    border-right: .5px #3c3c3c solid;
+}

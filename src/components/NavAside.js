@@ -8,6 +8,7 @@ export const NavAside = () => {
                 <h4>W</h4>   
             </div>
             <div className="nav-options">
+                <i class="las la-history"></i>
                 <i class="las la-sms"></i>
                 <i class="las la-ellipsis-v"></i>
             </div>

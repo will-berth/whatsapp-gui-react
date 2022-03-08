@@ -1,0 +1,20 @@
+.field-chat{
+    background-color: #202C33;
+    padding: .5rem .8rem;
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+}
+.field-chat > i {
+    margin-right: 2rem;
+    color: #AEBAC1;
+}
+.field-chat > input{
+    background-color: #202C33;
+    color: white;
+    border: none;
+    width: 100%;
+}
+.field-chat > input:focus{
+    outline: none;
+}
