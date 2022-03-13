@@ -1,0 +1,30 @@
+.data-chat{
+    color: #C8CDD0;
+    width: 100%;
+    border-bottom: .5px #313D45 solid;
+    padding: .9rem .5rem .9rem 0px;
+}
+
+.contact-name{
+    margin: 0;
+    display: flex;
+    font-weight: 500;
+    font-size: 1.1rem;
+    justify-content: space-between;
+}
+.msg-time{
+    margin-left: auto;
+    font-size: .8rem;
+    font-weight: 400;
+    color: #8696A0;
+}
+.msg-content{
+    margin: 0;
+    font-size: .8rem;
+    font-weight: 400;
+    color: #8696A0;
+}
+.msg-content > i{
+    font-size: 1rem;
+    font-weight: 700;
+}

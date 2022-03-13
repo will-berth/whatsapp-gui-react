@@ -1,5 +1,6 @@
 import React from 'react';
 import './aside.css';
+import { Chats } from './Chats';
 import { NavAside } from './NavAside';
 import { SearchChat } from './SearchChat';
 
@@ -12,6 +13,7 @@ export const Aside = () => {
                 <div className="content-search">
                     <SearchChat />
                 </div>
+                <Chats />
             </aside>
         </>
     );

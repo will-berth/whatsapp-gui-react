@@ -1,0 +1,8 @@
+.chat-item{
+    display: flex;
+    align-items: center;
+}
+.chat-item:hover{
+    background-color: #202C33;
+    cursor: pointer;
+}

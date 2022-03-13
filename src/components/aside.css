@@ -1,11 +1,13 @@
 .aside-component{
-    height: 100%;
+    height: 100vh;
     width: 30%;
     background-color: #111B21;
+    border-right: .5px #313D45 solid;
+    box-sizing: border-box;
+    position: relative;
 }
 
 .content-search{
     padding: .4rem .8rem;
-    border-bottom: .5px #3c3c3c solid;
-    border-right: .5px #3c3c3c solid;
+    border-bottom: .5px #313D45 solid;
 }

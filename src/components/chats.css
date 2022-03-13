@@ -1,0 +1,9 @@
+.chats{
+    /* height: 10%; */
+    width: 100%;
+    /* background-color: red; */
+    overflow-y: scroll;
+    position: absolute;
+    top: 6.8rem;
+    bottom: 0;
+}

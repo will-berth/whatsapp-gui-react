@@ -1,5 +1,6 @@
 import React from 'react';
 import { Aside } from './components/Aside';
+import { Welcome } from './components/Welcome';
 import './whatsappgui.css';
 
 export const WhatsAppGui = () => {
@@ -7,6 +8,7 @@ export const WhatsAppGui = () => {
         <div className="app-gui">
             {/* <h1>Hola mundo</h1> */}
             <Aside />
+            <Welcome />
         </div>
     )
 }

@@ -11,6 +11,7 @@ export const NavAside = () => {
                 <i class="las la-history"></i>
                 <i class="las la-sms"></i>
                 <i class="las la-ellipsis-v"></i>
+                {/* <img src="https://img.icons8.com/plumpy/24/000000/speech-bubble--v2.png"/> */}
             </div>
         </div>
     )
