@@ -1,0 +1,32 @@
+.mensaje-post{
+    display: flex;
+    justify-content: end;
+}
+.mensaje-get{
+    display: flex;
+    justify-content: start;
+}
+
+.msg-bg-0{
+    background-color: #005C4B;
+}
+.msg-bg-1{
+    background-color: #202C33;
+}
+.mensaje-content{
+    padding: .5rem 5rem .5rem .5rem;
+    border-radius: 7px;
+    position: relative;
+    margin: .1rem 0;
+    color: white;
+    font-size: .9rem;
+    max-width: 60%;
+    text-align: justify;
+}
+
+.mensaje-content > span{
+    position: absolute;
+    font-size: .7rem;
+    bottom: 3px;
+    right: 6px;
+}
